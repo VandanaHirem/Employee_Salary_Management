@@ -102,17 +102,29 @@ Step 5: Access the Application
 Open your web browser and navigate to:
 http://localhost:8080/Employee_Salary_Management/
 
-## 🖼 Output Screenshots
+## 🖼️ Output Screenshots
+
 ### 🏠 Home Page
-![Add Product] : (https://github.com/user-attachments/assets/76c3c345-d6be-4f63-9578-9cf8c0695495)
+![Home Page](screenshots/home.jpg)
 
-![Delete Product] : (https://github.com/user-attachments/assets/fa25e52d-a355-4c00-b1a7-320681809a17)
+### ➕ Add Product
+![Add Product](screenshots/add.jpg)
 
-![Update Product] : (https://github.com/user-attachments/assets/20158bf9-8812-48d9-ba53-278beb4be423)
+### 📝 Update Product
+![Update Product](screenshots/update.jpg)
 
-![Display Product] : (https://github.com/user-attachments/assets/cc668c10-bef0-44c1-8114-72bd1b03a39f)
+### ❌ Delete Product
+![Delete Product](screenshots/delete.jpg)
 
-![Report] : (https://github.com/user-attachments/assets/fc0d1dd4-55e3-4c55-8f79-cd49282ce0f2)
+### 📋 Display Products
+![Display Products](screenshots/display.jpg)
+
+### 📊 Generate Reports
+![Generate Reports](screenshots/report1.jpg)
+![Generate Reports](screenshots/report2.jpg)
+![Generate Reports](screenshots/report3.jpg)
+![Generate Reports](screenshots/report4.jpg)
+
 
 
 🛠️ Technologies Used :
