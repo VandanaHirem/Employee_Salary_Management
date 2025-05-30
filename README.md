@@ -108,23 +108,16 @@ http://localhost:8080/Employee_Salary_Management/
 ![Home Page](screenshots/home.png)
 
 ### ➕ Add Product
-![Add Product](screenshots/add.jpg)
+![Add Product](screenshots/add.png)
 
 ### 📝 Update Product
-![Update Product](screenshots/update.jpg)
+![Update Product](screenshots/update.png)
 
 ### ❌ Delete Product
-![Delete Product](screenshots/delete.jpg)
+![Delete Product](screenshots/delete.png)
 
 ### 📋 Display Products
-![Display Products](screenshots/display.jpg)
-
-### 📊 Generate Reports
-![Generate Reports](screenshots/report1.jpg)
-![Generate Reports](screenshots/report2.jpg)
-![Generate Reports](screenshots/report3.jpg)
-![Generate Reports](screenshots/report4.jpg)
-
+![Display Products](screenshots/display.png)
 
 
 🛠️ Technologies Used :
