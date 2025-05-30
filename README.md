@@ -14,7 +14,8 @@ A web-based Java application to manage employee records and salaries using JSP, 
 -> Employees with more than N years of service
 
  ## 📁 Project Structure
-```
+## 📁 Project Structure
+```plaintext
 EmployeeWebApp/
 ├── WebContent/
 │   ├── index.jsp
@@ -41,7 +42,6 @@ EmployeeWebApp/
 └── WEB-INF/
     └── web.xml
 ```
-
 ## 🗄 Database Setup
 ### 1. Create Database
 ```sql
