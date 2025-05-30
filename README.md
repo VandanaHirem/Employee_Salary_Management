@@ -14,6 +14,7 @@ A web-based Java application to manage employee records and salaries using JSP, 
 -> Employees with more than N years of service
 
  ## 📁 Project Structure
+```
 EmployeeWebApp/
 ├── WebContent/
 │   ├── index.jsp
@@ -39,15 +40,17 @@ EmployeeWebApp/
 │       └── ReportCriteriaServlet.java
 └── WEB-INF/
     └── web.xml
+```
 
 ## 🗄 Database Setup
 ### 1. Create Database
-
+```sql
 CREATE DATABASE IF NOT EXISTS employeedb;
 USE employeedb;
+```
 
 ### 2. Create Table
-
+```sql
 CREATE TABLE Employee (
     Empno INT PRIMARY KEY,
     EmpName VARCHAR(100),
@@ -55,15 +58,16 @@ CREATE TABLE Employee (
     Gender VARCHAR(10),
     Bsalary DECIMAL(10,2)
 );
-
+```
 ### 3. Insert Sample Data
-
+```sql
 INSERT INTO Employee (Empno, EmpName, DoJ, Gender, Bsalary) VALUES
 (101, 'John Doe', '2018-05-10', 'Male', 50000.00),
 (102, 'Jane Smith', '2020-03-22', 'Female', 60000.00),
 (103, 'Alan Walker', '2015-01-15', 'Male', 70000.00),
 (104, 'Sophie Turner', '2017-08-01', 'Female', 45000.00),
 (105, 'David Warner', '2019-10-11', 'Male', 52000.00);
+```
 
 ## ⚙ Installation & Setup
 
