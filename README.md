@@ -105,7 +105,7 @@ http://localhost:8080/Employee_Salary_Management/
 ## 🖼️ Output Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/home.jpg)
+![Home Page](screenshots/home.png)
 
 ### ➕ Add Product
 ![Add Product](screenshots/add.jpg)
